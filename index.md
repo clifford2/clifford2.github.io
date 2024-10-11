@@ -2,6 +2,4 @@
 
 Hi there friends!
 
-## Handy Stuff
-
-- [Password Generator](password-generator) (Credit: [Ramazan Çetinkaya](https://github.com/ramazancetinkaya)
+This is the source for my [GitHub Pages](https://docs.github.com/en/pages) site, at [clifford2.github.io](https://clifford2.github.io/).
