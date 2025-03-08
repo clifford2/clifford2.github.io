@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <title>Clifford's Bookmarks</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+      a:link, a:visited, a:active {
+        text-decoration: underline;
+      }
+      a:hover {
+        text-decoration: none;
+        cursor: pointer;
+        background-color: #909090;
+        text-shadow: 0;
+      }
+    </style>
+    <!-- Custom styles for this template -->
+    <link href="cover.css" rel="stylesheet">
+  </head>
+  <body class="text-center">
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+  <header class="masthead mb-auto">
+    <div class="inner">
+      <h3 class="masthead-brand">Hi!</h3>
+      <nav class="nav nav-masthead justify-content-center">
+        <a class="nav-link active" href="#">Home</a>
+        <a class="nav-link" href="https://www.cliffordweinmann.com/">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main role="main" class="inner cover">
+    <h1 class="cover-heading">My Personal Bookmarks</h1>
+    <div class="text-left">
+    <p class="lead">Decluttering my brain for more interesting stuff than remembering websites ;-)</p>
+    <p>On this domain:</p>
+    <ul>
+    <li><a href="https://www.cliffordweinmann.com/">Website</a></li>
+    <li><a href="https://status.cliffordweinmann.com/">Status page</a></li>
+    <li><a href="https://tools.cliffordweinmann.com/">IT-Tools</a> (my instance of <a href="https://github.com/CorentinTh/it-tools">Corentin Thomasset's project</a>)</li>
+    </ul>
+    <p>Other useful stuff (external):</p>
+    <ul>
+    <li><a href="https://hi.azul.africa/">Azul Bookmarks</a></li>
+    <li><a href="https://status.azul.ninja/">Azul Status</a></li>
+    <li><a href="https://status.tembotechlab.com/">TEMBO Status</a></li>
+    <li><a href="https://pwpush.com/">Password Pusher</a> for sharing sensitive information</li>
+    <li>What's my IP address? <a href="https://ifconfig.co/">ifconfig.co</a> / <a href="https://ifconfig.me/">ifconfig.me</a> / <a href="https://canhazip.com/">canhazip.com</a></li>
+    <li><a href="https://clifford2.github.io/password-generator/">Password Generator</a></li>
+    </ul>
+    </div>
+  </main>
+
+  <footer class="mastfoot mt-auto">
+    <div class="inner">
+      <p>Based on <a href="https://getbootstrap.com/docs/4.3/examples/cover/">Cover</a> template for <a href="https://getbootstrap.com/">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+    </div>
+  </footer>
+</div>
+</body>
+</html>

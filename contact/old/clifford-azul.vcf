@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Clifford Weinmann
+N;CHARSET=UTF-8:Weinmann;Clifford;;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:clifford.weinmann@azul.africa
+TEL;TYPE=CELL:+230-5832-0037
+TITLE;CHARSET=UTF-8:CTO
+ROLE;CHARSET=UTF-8:Consultant
+ORG;CHARSET=UTF-8:Azul Consulting
+URL;type=WORK;CHARSET=UTF-8:https://www.azul.africa/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/clifford-weinmann/
+REV:2024-04-09T15:11:07.282Z
+END:VCARD

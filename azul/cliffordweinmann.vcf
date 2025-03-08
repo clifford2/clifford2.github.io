@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Weinmann;Clifford;;;
+FN: Clifford Weinmann
+ORG:Azul Consulting
+COMPANY:Azul Consulting
+TITLE:CTO
+TEL;TYPE=Work,pref:+27-11-568-7668
+TEL;CELL;TYPE=Mobile,VOICE:+230-5832-0037
+EMAIL;TYPE=Email:clifford.weinmann@azul.africa
+URL;TYPE=Digital Business Card:https://www.cliffordweinmann.com/azul/
+UID:SMART-vCARD-100638976
+URL;TYPE=Website:https://www.azul.africa/
+URL;TYPE=WhatsApp:https://wa.me/23058320037
+URL;TYPE=Linkedin:https://www.linkedin.com/in/clifford-weinmann
+END:VCARD
