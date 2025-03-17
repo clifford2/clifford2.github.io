@@ -1,0 +1,20 @@
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Cache-Control = "public, max-age=86400"
+    Content-Type = "text/html"
+
+[[headers]]
+  for = "/healthz"
+  [headers.values]
+    Content-Type = "application/json"
+    Cache-Control = "public, max-age=60"
+
+[[headers]]
+  for = "/.well-known/openpgpkey/hu/*"
+  [headers.values]
+    Content-Type = "application/octet-stream"
+    Access-Control-Allow-Origin = "*"
